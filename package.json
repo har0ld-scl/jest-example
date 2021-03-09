@@ -1,0 +1,27 @@
+{
+  "name": "jest-example",
+  "version": "1.0.0",
+  "description": "A simple jest project to play around",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/preset-env": "^7.13.10",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/har0ld-scl/jest-example.git"
+  },
+  "author": "Harold Lopez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/har0ld-scl/jest-example/issues"
+  },
+  "homepage": "https://github.com/har0ld-scl/jest-example#readme"
+}
